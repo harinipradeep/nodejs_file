@@ -1,8 +1,8 @@
 # nodejs_file
 
 ## Start the app after installing node :
-cd uploader (it contains all the node module dependencies)
-node index.js
+a) cd uploader (it contains all the node module dependencies)
+b) node index.js
 
 ## Access Home page in the below endpoint :
 http://localhost:8000
